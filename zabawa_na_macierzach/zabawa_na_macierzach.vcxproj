@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="zabawa_na_macierzach.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="macierz.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
